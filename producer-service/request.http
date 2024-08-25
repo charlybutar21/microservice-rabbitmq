@@ -1,0 +1,8 @@
+### POST request to producer
+POST http://localhost:8081/api/produce
+Content-Type: application/json
+
+{
+    "userId": "ID2",
+    "userName": "rodriguez"
+}
